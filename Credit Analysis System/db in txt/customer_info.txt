@@ -1,0 +1,3 @@
+112,Uchchwash Chakraborty,1958-01-01T00:00:00,456,something@email.com,Syllhet,Sylhet,Sylhet,Male,Unmarried,Senior Chakraborty,Mrs Chakraborty,10075000,F:\java\Projects\Credit Analysis System112.jpg
+111,Habib Chowdhury,1972-01-01T00:00:00,654,something@email.com,Dhaka,Dhaka,Dhaka,Male,Married,Senior C,Mrs C,482000,F:\java\Projects\Credit Analysis System111.jpg
+113,Abir H,2004-01-01T00:00:00,01521104346,asdkjasla@sadd,adsad,Dhaka,Dhaka,Male,Unmarried,Senir,Mrs H,5000000,F:\java\Projects\Credit Analysis System113.jpg
